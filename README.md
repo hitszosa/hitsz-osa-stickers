@@ -38,4 +38,5 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
 <div>
   <img src="./dist/[penguin-darwin]-meta.svg" width="150" height="150" />
   <img src="./dist/[penguin-gear]-meta.svg" width="150" height="150" />
+  <img src="./dist/[logo]-meta.svg" width="150" height="150" />
 </div>
