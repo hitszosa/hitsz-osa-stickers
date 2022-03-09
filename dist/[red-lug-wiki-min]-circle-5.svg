@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 141.75 141.75" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDDynamicGuides" value="true"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="WDIsolateActiveLayer" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting key="WDSnapToEdges" value="true"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDUnits" value="Centimeters"/>
+</metadata>
+<defs/>
+<g id="Layer-2" vectornator:layerName="Layer 2">
+<path d="M70.875 3.66449L70.875 3.66449C107.994 3.66449 138.086 33.7557 138.086 70.875L138.086 70.875C138.086 107.994 107.994 138.086 70.875 138.086L70.875 138.086C33.7557 138.086 3.66449 107.994 3.66449 70.875L3.66449 70.875C3.66449 33.7557 33.7557 3.66449 70.875 3.66449Z" fill="#ff5745" fill-rule="evenodd" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+</g>
+<g id="Layer-3" vectornator:layerName="Layer 3"/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path d="M46.401 40.9099L76.1927 40.9099C84.3144 40.9099 90.8983 47.4939 90.8983 55.6156L90.8983 88.3064C90.8983 96.4281 84.3144 103.012 76.1927 103.012L46.401 103.012C38.2793 103.012 31.6954 96.4281 31.6954 88.3064L31.6954 55.6156C31.6954 47.4939 38.2793 40.9099 46.401 40.9099Z" fill="#ff5745" fill-rule="evenodd" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+<path d="M103.451 107.292C103.19 107.147 102.987 106.944 102.813 106.712C102.204 105.958 101.595 105.929 100.987 106.306C100.465 106.625 100.117 107.147 99.9718 107.726C99.3919 110.394 99.2179 113.119 95.7677 113.061L75.675 113.293L74.8921 113.293L74.8631 113.293C65.0053 113.293 66.8898 107.755 73.6164 104.015C73.9063 103.899 73.7034 103.638 73.5584 103.522C73.1815 103.087 72.8336 102.682 72.4856 102.247C72.1087 101.812 71.7318 101.348 71.3839 100.913C66.8609 95.3751 64.3674 90.6781 64.1064 81.4871C64.0775 79.5735 64.2514 77.6599 64.5414 75.7753C64.8893 73.8037 65.4112 71.8611 66.107 69.9765C66.8029 68.0919 67.7017 66.2943 68.7744 64.6127C69.3833 63.6559 70.0212 62.7281 70.717 61.8293C71.4129 60.9305 72.1667 60.0896 72.9495 59.2778C76.6318 55.6826 76.5448 49.246 72.7756 45.7087C70.1372 43.6792 67.0058 42.8383 63.7875 42.8383C61.9319 42.7804 58.5106 44.23 58.6556 41.2727C58.6556 41.0987 58.6846 40.9248 58.7426 40.7508C58.9456 40.0549 59.2065 39.3591 59.5254 38.6922C59.7284 38.2573 59.9603 37.8514 60.2213 37.4455C62.4248 33.8793 66.136 31.5598 70.3981 31.0379C70.775 30.9799 71.1519 30.8349 71.4419 30.603C72.9206 29.5012 74.9791 28.5734 76.7477 28.4574C84.3731 28.4284 88.0263 29.3272 93.3322 34.4012C95.8836 36.8366 98.3771 40.1129 97.2173 47.6803C95.6807 58.0021 106.031 77.08 107.481 87.4308C107.481 87.5178 107.51 87.5758 107.51 87.6627C107.626 90.1852 107.887 95.578 107.423 97.9845C106.669 102.247 106.698 104.131 109.685 106.828C111.511 108.422 106.118 108.828 103.451 107.292Z" fill="#ff5745" fill-rule="evenodd" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="6"/>
+</g>
+</g>
+<g id="Layer-4" vectornator:layerName="Layer 4"/>
+</svg>
