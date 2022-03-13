@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="WDIsolateActiveLayer" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting key="WDSnapToGrid" value="true"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDUnits" value="Pixels"/>
+</metadata>
+<defs/>
+<g id="Layer-4" vectornator:layerName="Layer 4"/>
+<g id="Layer-3" vectornator:layerName="Layer 3"/>
+<g id="Layer-2" vectornator:layerName="Layer 2"/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<g opacity="1">
+<path d="M820 232L932 232L932 960L820 960L820 232Z" fill="#ffffff" fill-opacity="0.752616" fill-rule="evenodd" opacity="1" stroke="#1fc658" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.757518" stroke-width="20"/>
+<path d="M260 232L372 232L372 960L260 960L260 232Z" fill="#ffffff" fill-opacity="0.752616" fill-rule="evenodd" opacity="1" stroke="#1fc658" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.757518" stroke-width="20"/>
+<path d="M260 232C260 232 372 736 596 736C820 736 932 232 932 232L820 232C820 232 652 736 596 736C540 736 372 232 372 232L260 232Z" fill="#ffffff" fill-opacity="0.752616" fill-rule="evenodd" opacity="1" stroke="#1fc658" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.757518" stroke-width="20"/>
+</g>
+<path d="M204 176L204 288L428 288L428 904L540 904L540 288L764 288L764 176L540 176L428 176L204 176Z" fill="#ffffff" fill-opacity="0.752616" fill-rule="evenodd" opacity="1" stroke="#1fc658" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.757518" stroke-width="20"/>
+<path d="M540 120C323.504 120 148 295.504 148 512C148 728.496 323.504 904 540 904C599.568 904 656.033 890.713 706.593 866.941C839.788 804.317 932 668.927 932 512C932 492.977 930.572 474.299 927.953 456L814.395 456L708 456L540 456L540 568L814.395 568C788.453 695.808 675.463 792 540 792C385.36 792 260 666.64 260 512C260 357.36 385.36 232 540 232C640.368 232 728.353 284.832 777.781 364.18L863.531 290.68C792.901 187.638 674.36 120 540 120Z" fill="#ffffff" fill-opacity="0.752616" fill-rule="evenodd" opacity="1" stroke="#1fc658" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.757518" stroke-width="20"/>
+<path d="M92 64L92 680L92 792L204 792L596 792L596 680L204 680L204 64L92 64Z" fill="#ffffff" fill-opacity="0.752616" fill-rule="evenodd" opacity="1" stroke="#1fc658" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.757518" stroke-width="20"/>
+</g>
+</g>
+</svg>
