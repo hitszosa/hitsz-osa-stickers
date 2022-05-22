@@ -33,6 +33,12 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
   <img src="./dist/[penguin-lug-pub]-none-6_4.svg" width="150" height="150" />
 </div>
 
+### Weekly
+
+<div> 
+  <img src="./dist/[tea-lug-weekly]-circle.svg width="150" height="150" />
+</div>
+
 ### Meta
 
 <div>
