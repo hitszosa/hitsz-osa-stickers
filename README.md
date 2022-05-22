@@ -36,7 +36,7 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
 ### Weekly
 
 <div> 
-  <img src="./dist/[tea-lug-weekly]-circle.svg width="150" height="150" />
+  <img src="./dist/[tea-lug-weekly]-circle.svg" width="150" height="150" />
 </div>
 
 ### Meta
