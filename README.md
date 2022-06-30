@@ -47,8 +47,7 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
   <img src="./dist/[logo]-meta.svg" width="150" height="150" />
 </div>
 
-
-### Unofficial
+### Flake
 
 <div>
   <img src="./dist/[blue-flake]-non-5.svg" width="150" height="150" />
