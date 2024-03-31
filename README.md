@@ -1,4 +1,4 @@
-# HITSZ LUG Stickers
+# HITSZ OSA Stickers
 
 ## Naming convention
 
@@ -10,16 +10,14 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
 
 ## Gallery
 
-### Wiki
+### Meta
 
 <div>
-  <img src="./dist/[blue-lug-wiki-min]-circle-5.svg" width="150" height="150" />
-  <img src="./dist/[green-lug-wiki-min]-circle-5.svg" width="150" height="150" />
-  <img src="./dist/[pink-lug-wiki-min]-circle-5.svg" width="150" height="150" />
-  <img src="./dist/[red-lug-wiki-min]-circle-5.svg" width="150" height="150" />
-  <img src="./dist/[yellow-lug-wiki-min]-circle-5.svg" width="150" height="150" />
+  <img src="./dist/[penguin-darwin]-meta.svg" width="150" height="150" />
+  <img src="./dist/[penguin-gear]-meta.svg" width="150" height="150" />
+  <img src="./dist/[logo]-meta.svg" width="150" height="150" />
 </div>
-  
+
 ### LGTM
 
 <div> 
@@ -33,20 +31,6 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
   <img src="./dist/[penguin-lug-pub]-none-6_4.svg" width="150" height="150" />
 </div>
 
-### Weekly
-
-<div> 
-  <img src="./dist/[tea-lug-weekly]-circle.svg" width="150" height="150" />
-</div>
-
-### Meta
-
-<div>
-  <img src="./dist/[penguin-darwin]-meta.svg" width="150" height="150" />
-  <img src="./dist/[penguin-gear]-meta.svg" width="150" height="150" />
-  <img src="./dist/[logo]-meta.svg" width="150" height="150" />
-</div>
-
 ### Flake
 
 <div>
@@ -54,3 +38,35 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
   <img src="./dist/[green-flake]-non-5.svg" width="150" height="150" />
   <img src="./dist/[pink-flake]-non-5.svg" width="150" height="150" />
 </div>
+
+### OSA glyphs
+
+<div>
+  <img src="./dist/[osa-glyphs]-serif-positive-stylish.png" width="150" height="150" />
+  <img src="./dist/[osa-glyphs]-serif-negative-stylish.png" width="150" height="150" />
+  <img src="./dist/[osa-glyphs]-sans-positive-stylish.png" width="150" height="150" />
+  <img src="./dist/[osa-glyphs]-sans-negative-stylish.png" width="150" height="150" />
+</div>
+
+### Penguin Orb
+
+<div>
+  <img src="./dist/[penguin-orb]-none.png" width="150" height="150" />
+</div>
+
+### Wiki
+
+<div>
+  <img src="./dist/[blue-lug-wiki-min]-circle-5.svg" width="150" height="150" />
+  <img src="./dist/[green-lug-wiki-min]-circle-5.svg" width="150" height="150" />
+  <img src="./dist/[pink-lug-wiki-min]-circle-5.svg" width="150" height="150" />
+  <img src="./dist/[red-lug-wiki-min]-circle-5.svg" width="150" height="150" />
+  <img src="./dist/[yellow-lug-wiki-min]-circle-5.svg" width="150" height="150" />
+</div>
+
+### Weekly
+
+<div> 
+  <img src="./dist/[tea-lug-weekly]-circle.svg" width="150" height="150" />
+</div>
+
