@@ -45,7 +45,7 @@ e.g.: `[gumball-and-darwin]-square-8_9.png` means a square sticker named 'Gumbal
   <img src="./dist/[osa-glyphs]-serif-positive-stylish.png" width="150" height="150" />
   <img src="./dist/[osa-glyphs]-serif-negative-stylish.png" width="150" height="150" />
   <img src="./dist/[osa-glyphs]-sans-positive-stylish.png" width="150" height="150" />
-  <img src="./dist/[osa-glyphs]-sans-negative-stylish.png" width="150" height="150" />
+  <img src="./dist/[osa-glyphs]-sans-negative-stylish.svg" width="150" height="150" />
 </div>
 
 ### Penguin orb
